@@ -1,5 +1,6 @@
 # Expense-Tracker-App-in-Asp.Net-Core-MVC
 This is an Expense Tracker App in Asp.Net Core MVC using SyncFusion Components.
+I use this app for my daily life in my local development environment and the credit goes to CodeAffection Youtube Channel.
 
 This is a complete Asp.Net Core application to demonstrate the building an enterprise application from scratch.
 
